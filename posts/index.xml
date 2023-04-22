@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ShanTen&#39;s Site</title>
+    <link>https://shanTen.github.io/posts/</link>
+    <description>Recent content in Posts on ShanTen&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-in</language>
+    <lastBuildDate>Sat, 22 Apr 2023 13:40:40 +0530</lastBuildDate><atom:link href="https://shanTen.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HelloWorld</title>
+      <link>https://shanTen.github.io/posts/helloworld/</link>
+      <pubDate>Sat, 22 Apr 2023 13:40:40 +0530</pubDate>
+      
+      <guid>https://shanTen.github.io/posts/helloworld/</guid>
+      <description>Hi there, back at it again with another blog after nearly 5 years of appa telling me to start one. Where will this go? who knows, all I hope is that one day I&amp;rsquo;ll work hard enough to put something so captivating millions (or atleast lakhs of people) will view it. Until then,
+Sayonara 👋</description>
+    </item>
+    
+  </channel>
+</rss>
